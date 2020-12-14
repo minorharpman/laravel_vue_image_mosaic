@@ -44,7 +44,7 @@
     <div id="app">
 <div class="jumbotron jumbotron-fluid jumbotron-mod"  style="margin:0px;background: #0080ff;color:white;background-image:url({{ asset('design/balaton_mosaic.png') }}); ;  ">
    <a class="navbar-brand" href="{{ url('/') }}" style="color:white;display: block;"><div class="container">
-    <h1  style="font-weight:bold;text-shadow: 4px 3px 0 #000;">Free Online  Art Mosaic  Maker  <br> Impress Your Friends with a mosaic or a collage picture.</h1>
+    <h1  style="font-weight:bold;text-shadow: 4px 3px 0 #000;">Multi User Free Online  Art Mosaic  Maker  <br> Impress Your Friends with a mosaic or a collage picture.</h1>
     <p class="lead" style="font-weight:bold;" >Instagram photo creator , Mosaic and thumbnail collage maker,  {{ config('app.name', 'Laravel') }} </p>
   </div></a>
 </div>
@@ -122,6 +122,16 @@
         </nav>
 
         <main class="py-4">
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+<strong> Free Source Code: <a href="https://github.com/minorharpman/laravel_vue_image_mosaic" target="_blank">https://github.com/minorharpman/laravel_vue_image_mosaic</a> </strong>
+<br><br>
+            </div>
+        </div>
+    </div>
+
+
             @yield('content')
         </main>
 
