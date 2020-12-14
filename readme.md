@@ -1,4 +1,4 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+<p align="center"><img src="http://blogbook.hu/laravel_vue_image_mosaic/public/design/balaton_mosaic.png"></p>
 
 <p align="center">
 <a href="https://blogbook.hu/laravel_vue_image_mosaic/public/"> Online Fast Photo Mosaic and Collage Maker</a>
