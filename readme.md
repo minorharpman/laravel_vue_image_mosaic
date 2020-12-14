@@ -69,6 +69,8 @@ For test@test.com, test2@test.com are not allowed to change  password
 
 .env file, Setting, Install:
 
+// env example in the doc folder!!!
+
 //Edit protected  .env  in the root folder
 //MYSQL SETTING:
 // Edit the datas with your access data of your hosting or  local server
